@@ -1,3 +1,4 @@
+%Title: Introduction to MATLAB Basics for Beginners
 %% 1. Cell Arrays
 
 cellArray = {'Name' 'AAHH' 187 [1 2 3]};
